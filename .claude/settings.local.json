@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Guilherme/Documents/GUILHERME AUGUSTO RODRIGUES/swnew/slide/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
